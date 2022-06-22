@@ -1,0 +1,7 @@
+utiles\tad\msproductos\ServletInitializer.class
+utiles\tad\msproductos\entities\Product.class
+utiles\tad\msproductos\services\IProductService.class
+utiles\tad\msproductos\repository\ProductRepository.class
+utiles\tad\msproductos\controllers\ProductController.class
+utiles\tad\msproductos\MsproductosApplication.class
+utiles\tad\msproductos\services\ProductService.class
